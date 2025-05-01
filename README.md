@@ -1,7 +1,3 @@
-Here's a clean and professional **README template** for your **Online Voting System** project. It includes a project overview, features, tech stack, setup instructions, and more:
-
----
-
 # 🗳️ Online Voting System
 
 A secure and user-friendly web-based application that allows users to cast their votes online. Designed to streamline the election process digitally while maintaining transparency, accuracy, and integrity.
