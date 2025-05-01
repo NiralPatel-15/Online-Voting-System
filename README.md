@@ -42,22 +42,33 @@ A secure and user-friendly web-based application that allows users to cast their
 ## 📂 Folder Structure
 
 ```
-online-voting-system/
-├── admin/              # Admin dashboard
-├── includes/           # Configuration and database connection
-├── voters/             # Voter login and voting pages
-├── uploads/            # Candidate photos
-├── index.php           # Main landing page
-├── vote.php            # Voting logic
-└── README.md
+VOTINGSYSTEM/
+├── admin/                   # Admin dashboard and settings
+├── bower_components/        # Frontend libraries
+├── db/                      # Database scripts or connection files
+├── dist/                    # Distribution files (e.g., compiled assets)
+├── images/                  # Image assets (candidate photos, logos)
+├── includes/                # Reusable PHP includes/config
+├── plugins/                 # External plugins
+├── vendor/                  # Composer dependencies
+├── composer.json            # Composer configuration
+├── composer.lock            # Composer lock file
+├── fetch_ballot.php         # Fetches ballot dynamically
+├── home.php                 # User home/dashboard
+├── index.php                # Entry point
+├── login.php                # Voter login
+├── logout.php               # Voter logout
+├── otp_verification.php     # OTP-based voter verification
+├── preview.php              # Preview ballot before final submission
+├── profile.php              # Voter profile page
+├── register.php             # Voter registration
+├── results.php              # Display election results
+├── submit_ballot.php        # Handles ballot submission
+├── submit_vote.php          # Processes each vote
+├── update_profile.php       # Voter profile update
+├── vote.php                 # Voting interface
+
 ```
-
----
-
-## 📊 Demo
-
-You can try the demo here: [Live Demo](https://your-demo-link.com)  
-_(replace with actual link if available)_
 
 ---
 
