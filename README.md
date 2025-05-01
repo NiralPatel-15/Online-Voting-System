@@ -76,6 +76,4 @@ VOTINGSYSTEM/
 
 This project is licensed under the MIT License.
 
----
 
-Would you like me to generate a badge section or include database schema info?
