@@ -32,23 +32,6 @@ A secure and user-friendly web-based application that allows users to cast their
 - PHP 7.x or later  
 - MySQL  
 
-### Installation
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/online-voting-system.git
-   ```
-2. Move it to your web server directory (`htdocs` for XAMPP)  
-3. Import the provided SQL file into your MySQL database  
-4. Update DB credentials in `config.php`  
-5. Start Apache and MySQL  
-6. Open the project in browser:  
-   ```
-   http://localhost/online-voting-system/
-   ```
-
----
-
 ## 🔐 Roles
 
 - **Admin:** Can manage elections, candidates, and view results  
