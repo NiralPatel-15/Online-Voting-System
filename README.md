@@ -6,12 +6,7 @@ A secure and user-friendly web-based application that allows users to cast their
 
 ## 📌 Features
 
-- 🧑‍💼 Admin dashboard to manage elections, positions, and candidates  
-- 👥 Voter registration and login system  
-- 🗳️ One vote per position per voter  
-- 📊 Real-time results and vote tallying  
-- 🖼️ Candidate profiles with photo and platform  
-- 🔒 Secure login and vote validation
+
 
 ---
 
