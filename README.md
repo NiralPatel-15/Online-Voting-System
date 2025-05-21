@@ -69,6 +69,9 @@ VOTINGSYSTEM/
 ├── vote.php                 # Voting interface
 
 ```
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ---
 
