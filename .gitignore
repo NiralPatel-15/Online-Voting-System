@@ -1,0 +1,15 @@
+admin/vendor/
+admin/composer.json
+admin/composer.lock
+
+bower_components/
+
+plugins/
+
+composer.json
+composer.lock
+
+dist/
+
+config.ini
+debug_log.txt

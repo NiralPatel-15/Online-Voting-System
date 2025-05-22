@@ -1,0 +1,100 @@
+[2025-03-26 17:13:50] Script started
+[2025-03-26 17:13:50] Active Election Found: ID = 8
+[2025-03-26 17:13:50] Script started
+[2025-03-26 17:13:50] Active Election Found: ID = 8
+[2025-03-26 17:13:51] Script started
+[2025-03-26 17:13:51] Active Election Found: ID = 8
+[2025-03-26 17:13:51] Script started
+[2025-03-26 17:13:51] Active Election Found: ID = 8
+[2025-03-26 17:13:51] Script started
+[2025-03-26 17:13:51] Active Election Found: ID = 8
+[2025-03-26 17:13:52] Script started
+[2025-03-26 17:13:52] Active Election Found: ID = 8
+[2025-03-26 17:13:57] Script started
+[2025-03-26 17:13:57] Active Election Found: ID = 8
+[2025-03-26 17:18:18] Script started
+[2025-03-26 17:18:18] Active Election Found: ID = 8
+[2025-03-26 17:18:18] Script started
+[2025-03-26 17:18:18] Active Election Found: ID = 8
+[2025-03-26 17:18:18] Script started
+[2025-03-26 17:18:18] Active Election Found: ID = 8
+[2025-03-26 17:18:19] Script started
+[2025-03-26 17:18:19] Active Election Found: ID = 8
+[2025-03-26 17:18:19] Script started
+[2025-03-26 17:18:19] Active Election Found: ID = 8
+[2025-03-26 17:18:19] Script started
+[2025-03-26 17:18:19] Active Election Found: ID = 8
+[2025-03-26 17:18:24] Script started
+[2025-03-26 17:18:24] Active Election Found: ID = 8
+[2025-03-26 17:18:37] Script started
+[2025-03-26 17:18:37] Active Election Found: ID = 8
+[2025-03-26 17:18:39] Script started
+[2025-03-26 17:18:39] Active Election Found: ID = 8
+[2025-03-26 17:20:06] Script started
+[2025-03-26 17:20:06] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:06] Script started
+[2025-03-26 17:20:06] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:06] Script started
+[2025-03-26 17:20:06] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:06] Script started
+[2025-03-26 17:20:06] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:07] Script started
+[2025-03-26 17:20:07] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:07] Script started
+[2025-03-26 17:20:07] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:07] Script started
+[2025-03-26 17:20:07] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:20:07] Script started
+[2025-03-26 17:20:07] Active Election Found: ID = 8
+[Ballot Debug] Checking positions for Election ID: 8
+[Ballot Debug] Found 3 positions
+[2025-03-26 17:22:09] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[2025-03-26 17:22:10] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[2025-03-26 17:22:10] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[2025-03-26 17:22:10] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[2025-03-26 17:22:33] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[Ballot Debug] Final Output: 
+[2025-03-26 17:22:34] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[Ballot Debug] Final Output: 
+[2025-03-26 17:22:34] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[Ballot Debug] Final Output: 
+[2025-03-26 17:22:34] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[Ballot Debug] Final Output: 
+[2025-03-26 17:22:34] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[Ballot Debug] Final Output: 
+[2025-03-26 17:22:35] Script started
+[Ballot Debug] Checking candidates for position ID: 
+[Ballot Debug] No candidates found for position ID: 
+[Ballot Debug] Final Output: 
