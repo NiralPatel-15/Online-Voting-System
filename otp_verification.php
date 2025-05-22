@@ -19,12 +19,12 @@ function sendOTP($to, $name, $otp)
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'variyamik2@gmail.com'; // Change this
-        $mail->Password = 'igqaklatjcuvwsmu'; // Use an App Password
+        $mail->Username = 'your email'; // Change this
+        $mail->Password = 'password'; // Use an App Password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
-        $mail->setFrom('variyamik2@gmail.com', 'Voting System');
+        $mail->setFrom('your email', 'Voting System');
         $mail->addAddress($to, $name);
         $mail->isHTML(true);
         $mail->Subject = "Your OTP for Login";
