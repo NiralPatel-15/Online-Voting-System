@@ -35,7 +35,7 @@ A secure and user-friendly web-based application that allows users to cast their
 ## 🔐 Roles
 
 - **Admin:** Can manage elections, candidates, and view results  
-- **Voter:** Can log in and vote once per election
+- 
 
 ---
 
